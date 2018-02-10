@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">kjsr7c</string>
+    <string name="attendace">LoadAttendace</string>
+    <string name="attendance">loadattendance</string>
+    <string-array name="year_month_name">
+        <item>January</item>
+        <item>February</item>
+        <item>March</item>
+        <item>April</item>
+        <item>May</item>
+        <item>June</item>
+        <item>July</item>
+        <item>August</item>
+        <item>September</item>
+        <item>October</item>
+        <item>November</item>
+        <item>December</item>
+    </string-array>
+</resources>
