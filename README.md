@@ -1,1 +1,1 @@
-# Attendance-Manager
+This is the app which can be used by techers of a school/college to manage the attendance of the class like uploading daily attendance, updating and exporting the day's attendance sheet to an excel file which can be used in future. Each teacher can add as many as coruses he/she wants and the app needs access to the internal storage of the phone.
